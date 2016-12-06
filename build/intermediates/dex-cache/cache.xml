@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_687050591c8fcc5ed3fc9364180e2f7452aaeccb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_91649afa5769b43cae1d7e7d6756cab1d284fd4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a.hosseini\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_2e6cc9d425b2ffd993173a8b113083715abfc3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.4.0_0fbdb1475b1a9acf4df9048da818c54d04b836cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.4.0_55e786cfa75ea8257ca363aaf61b90f4c7a28f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.4.0_f67160f57bc063280a35904428f8673926385794.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a.hosseini\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\gson-2.7_3354fe0eccdadfa8afa9d02d92ce019b79c3d4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\uk.co.chrisjenx-calligraphy-2.1.0_c671eb6eeb4dbaa62a8ee91d5ce37a07d9518ce8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a.hosseini\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_27041f044e3e879115aa19541857eeb7a7ff49f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\co.ronash.android\pushe-base\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0697d24cd5c8f3354952cb358d40ee04c730e32d">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\co.ronash.android-pushe-base-1.0.0_74ddd0955a4de3e8614e3b665fa1e991f7797725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.backtory.android\backtorysdk\0.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="963eedbed138060f33a28d9490efc9d2ff02f9a5">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.backtory.android-backtorysdk-0.2.2_0e40aecdcd30c4fda29831977c92b42b1c55ebb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android_SDK_Full_Package\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_2e1ea2c72932e01689b05c8b182bf91fdffce9c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.4.0_db1df1aa737b8df57cc3192cf06471b2d5f39216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a.hosseini\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\okio-1.8.0_41561da4100c426868087084721fbe14a85ab53f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_487436fbb70b113ef76e0aaa9891a36f8a76f79b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.4.0_0c0f7c77db15f4a917578fd8ed15556a4d11d4d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_65a5a980da591347a0a4de8183176593bb957f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\net.vrallev.android\cat\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bdc80a2bb66fc1a08f642608b738749341eb575">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\net.vrallev.android-cat-1.0.4_c7f4939142e316eca8680910e8525be49b71e3fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_af7f4d0f5556b2da1afefb7d446a863f9a607eb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_a0fcb4fd5230c387518148bb73896404244bd032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_ba2ad8b51ce19af085b57622de66837a7e802b5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\exploded-aar\com.evernote\android-job\1.0.13\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="64792c1d9199863325aa0dbfe4489f4e24a6b38e">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\com.evernote-android-job-1.0.13_fb4f19772267f576a04686637c71e8044563b0aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\a.hosseini\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\SynolexOM-AndroidApp\SynolexOM\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_75170c32d74fd4a635a835a9a97e4341d358cf57.jar" />
+    </item>
+
+</items>
